@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm working on [SICMUtils](https://github.com/sicmutils/sicmutils), a computer algebra system in Clojure that's designed for explorations in symbolic math, classical mechanics and differential geometry.
+
+This effort is a push toward a larger goal of a [Dynamic Notebook](https://roadtoreality.substack.com/p/the-dynamic-notebook), a sort of "Executable Wikipedia". What if publishing interactive, executable models was as easy as publishing an essay on some topic?
+
+If this is intriguing, you can support the work at my [Github Sponsors dashboard](https://github.com/sponsors/sritchie). All contributions go into a pool that I'll use to pay contributors for help with literate essays and executable textbook contributions that can help with and spread this work.
+
+I write about this mission at the [Road to Reality newsletter](https://roadtoreality.substack.com). Please subscribe, and sponsor this work if you find it inspiring or compelling!
+
 <!--
 **sritchie/sritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
