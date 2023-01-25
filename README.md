@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working on [SICMUtils](https://github.com/sicmutils/sicmutils), a computer algebra system in Clojure that's designed for explorations in symbolic math, classical mechanics and differential geometry.
+I'm working on [Emmy](https://github.com/mentat-collective/emmy), a computer algebra system in Clojure that's designed for explorations in symbolic math, classical mechanics and differential geometry.
 
 This effort is a push toward a larger goal of a [Dynamic Notebook](https://roadtoreality.substack.com/p/the-dynamic-notebook), a sort of "Executable Wikipedia". What if publishing interactive, executable models was as easy as publishing an essay on some topic?
 
